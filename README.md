@@ -12,3 +12,9 @@
 2. [122. Best Time to Buy and Sell Stock II](https://github.com/akashanup/75DaysChallenge/tree/main/122.BestTimeToBuyAndSellStockII)
 3. [724. Find Pivot Index](https://github.com/akashanup/75DaysChallenge/tree/main/724.FindPivotIndex)
 4. [169. Majority Element](https://github.com/akashanup/75DaysChallenge/tree/main/169.MajorityElement)
+
+## Day3
+1. [118. Pascal's Triangle](https://github.com/akashanup/75DaysChallenge/tree/main/118.PascalsTriangle)
+2. [](https://github.com/akashanup/75DaysChallenge/tree/main/)
+3. [](https://github.com/akashanup/75DaysChallenge/tree/main/)
+4. [](https://github.com/akashanup/75DaysChallenge/tree/main/)
