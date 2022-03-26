@@ -15,6 +15,6 @@
 
 ## Day3
 1. [118. Pascal's Triangle](https://github.com/akashanup/75DaysChallenge/tree/main/118.PascalsTriangle)
-2. [](https://github.com/akashanup/75DaysChallenge/tree/main/)
-3. [](https://github.com/akashanup/75DaysChallenge/tree/main/)
-4. [](https://github.com/akashanup/75DaysChallenge/tree/main/)
+2. [26. Remove Duplicates from Sorted Array](https://github.com/akashanup/75DaysChallenge/tree/main/26.RemoveDuplicatesFromSortedArray)
+3. [56. Merge Intervals](https://github.com/akashanup/75DaysChallenge/tree/main/56.MergeIntervals)
+4. [15. 3Sum](https://github.com/akashanup/75DaysChallenge/tree/main/15.3Sum)
