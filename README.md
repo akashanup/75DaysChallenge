@@ -18,3 +18,9 @@
 2. [26. Remove Duplicates from Sorted Array](https://github.com/akashanup/75DaysChallenge/tree/main/26.RemoveDuplicatesFromSortedArray)
 3. [56. Merge Intervals](https://github.com/akashanup/75DaysChallenge/tree/main/56.MergeIntervals)
 4. [15. 3Sum](https://github.com/akashanup/75DaysChallenge/tree/main/15.3Sum)
+
+## Day4
+1. [380. Insert Delete GetRandom O(1)](https://github.com/akashanup/75DaysChallenge/tree/main/380.InsertDeleteGetRandomInBigO-1)
+2. [560. Subarray Sum Equals K](https://github.com/akashanup/75DaysChallenge/tree/main/560.SubarraySumEqualsK)
+3. [31. Next Permutation](https://github.com/akashanup/75DaysChallenge/tree/main/31.NextPermutation)
+4. [11. Container With Most Water](https://github.com/akashanup/75DaysChallenge/tree/main/11.ContainerWithMostWater)
