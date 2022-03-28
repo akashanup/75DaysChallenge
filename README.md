@@ -24,3 +24,8 @@
 2. [560. Subarray Sum Equals K](https://github.com/akashanup/75DaysChallenge/tree/main/560.SubarraySumEqualsK)
 3. [31. Next Permutation](https://github.com/akashanup/75DaysChallenge/tree/main/31.NextPermutation)
 4. [11. Container With Most Water](https://github.com/akashanup/75DaysChallenge/tree/main/11.ContainerWithMostWater)
+
+## Day5
+1. [54. Spiral Matrix](https://github.com/akashanup/75DaysChallenge/tree/main/54.SpiralMatrix)
+2. [48. Rotate Image](https://github.com/akashanup/75DaysChallenge/tree/main/48.RotateImage)
+3. [79. Word Search](https://github.com/akashanup/75DaysChallenge/tree/main/79.WordSearch)
