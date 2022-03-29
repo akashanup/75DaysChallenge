@@ -4,10 +4,10 @@ class Solution:
         for i in range(m):
             for j in range(n):
                 if board[i][j] == 0 or board[i][j] == 2:
-                    if self.nnb(board, i, j) == 3:
+                    if self.helper(board, i, j) == 3:
                         board[i][j] = 2
                 else:
-                    if self.nnb(board, i, j) < 2 or self.nnb(board, i, j) > 3:
+                    if self.helper(board, i, j) < 2 or self.helper(board, i, j) > 3:
                         board[i][j] = 3
         for i in range(m):
             for j in range(n):
@@ -16,7 +16,7 @@ class Solution:
                 if board[i][j] == 3:
                     board[i][j] = 0
 
-    def nnb(self, board, i, j):
+    def helper(self, board, i, j):
         m, n = len(board), len(board[0])
         count = 0
         if i-1 >= 0 and j-1 >= 0:
