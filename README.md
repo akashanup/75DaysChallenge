@@ -32,6 +32,6 @@
 
 ## Day6
 1. [16. 3Sum Closest](https://github.com/akashanup/75DaysChallenge/tree/main/16.3SumClosest)
-2. [289. Game of Life](https://github.com/akashanup/75DaysChallenge/tree/main/289.GameOfLife)
+2. [289. Game of Life](https://github.com/akashanup/75DaysChallenge/tree/main/289.GameofLife)
 3. [1010. Pairs of Songs With Total Durations Divisible by 60](https://github.com/akashanup/75DaysChallenge/tree/main/1010.PairsOfSongsWithTotalDurationsDivisibleBy60)
 4. [18. 4Sum](https://github.com/akashanup/75DaysChallenge/tree/main/18.4Sum)
