@@ -1,5 +1,4 @@
-# 560. Subarray Sum Equals K1 <= nums.length <= 10^4
--1000 <= nums[i] <= 1000
+# 560. Subarray Sum Equals K
 
 Given an array of integers nums and an integer k, return the total number of subarrays whose sum equals to k.
 
