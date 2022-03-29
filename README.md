@@ -29,3 +29,9 @@
 1. [54. Spiral Matrix](https://github.com/akashanup/75DaysChallenge/tree/main/54.SpiralMatrix)
 2. [48. Rotate Image](https://github.com/akashanup/75DaysChallenge/tree/main/48.RotateImage)
 3. [79. Word Search](https://github.com/akashanup/75DaysChallenge/tree/main/79.WordSearch)
+
+## Day6
+1. [16. 3Sum Closest](https://github.com/akashanup/75DaysChallenge/tree/main/16.3SumClosest)
+2. [289. Game of Life](https://github.com/akashanup/75DaysChallenge/tree/main/289.GameOfLife)
+3. [1010. Pairs of Songs With Total Durations Divisible by 60](https://github.com/akashanup/75DaysChallenge/tree/main/1010.PairsOfSongsWithTotalDurationsDivisibleBy60)
+4. [18. 4Sum](https://github.com/akashanup/75DaysChallenge/tree/main/18.4Sum)
