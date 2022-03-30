@@ -35,3 +35,8 @@
 2. [289. Game of Life](https://github.com/akashanup/75DaysChallenge/tree/main/289.GameofLife)
 3. [1010. Pairs of Songs With Total Durations Divisible by 60](https://github.com/akashanup/75DaysChallenge/tree/main/1010.PairsOfSongsWithTotalDurationsDivisibleBy60)
 4. [18. 4Sum](https://github.com/akashanup/75DaysChallenge/tree/main/18.4Sum)
+
+## Day7
+1. [39. Combination Sum](https://github.com/akashanup/75DaysChallenge/tree/main/39.CombinationSum)
+2. [45. Jump Game II](https://github.com/akashanup/75DaysChallenge/tree/main/5.JumpGameII)
+3. [1423. Maximum Points You Can Obtain from Cards](https://github.com/akashanup/75DaysChallenge/tree/main/1423.MaximumPointsYouCanObtainFromCards)
