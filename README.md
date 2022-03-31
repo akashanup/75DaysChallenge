@@ -40,3 +40,9 @@
 1. [39. Combination Sum](https://github.com/akashanup/75DaysChallenge/tree/main/39.CombinationSum)
 2. [45. Jump Game II](https://github.com/akashanup/75DaysChallenge/tree/main/5.JumpGameII)
 3. [1423. Maximum Points You Can Obtain from Cards](https://github.com/akashanup/75DaysChallenge/tree/main/1423.MaximumPointsYouCanObtainFromCards)
+
+## Day8
+1. [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://github.com/akashanup/75DaysChallenge/tree/main/1465.MaximumAreaOfPieceOfCakeAfterHorizontalAndVerticalCuts)
+2. [695. Max Area of Island](https://github.com/akashanup/75DaysChallenge/tree/main/695.MaxAreaOfIsland)
+3. [532. K-diff Pairs in an Array](https://github.com/akashanup/75DaysChallenge/tree/main/532.K-diffPairsInAnArray)
+4. [442. Find All Duplicates in an Array](https://github.com/akashanup/75DaysChallenge/tree/main/442.FindAllDuplicatesInAnArray)
