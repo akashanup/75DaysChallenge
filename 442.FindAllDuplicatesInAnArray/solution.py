@@ -11,10 +11,8 @@ class Solution:
         """
         n = len(nums)
         nums = [num-1 for num in nums]
-        print(nums)
         for num in nums:
             nums[num % n] += n
-        # nums = [num//n for num in nums]
         output = []
         for key, num in enumerate(nums):
             if num//n == 2:
