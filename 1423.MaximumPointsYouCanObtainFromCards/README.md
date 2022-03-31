@@ -22,7 +22,6 @@ Output: 4
 Explanation: Regardless of which two cards you take, your score will always be 4.
 ```
 
-
 ### Example 3
 ```sh
 Input: cardPoints = [9,7,7,9,7,7,9], k = 7
