@@ -46,3 +46,9 @@
 2. [695. Max Area of Island](https://github.com/akashanup/75DaysChallenge/tree/main/695.MaxAreaOfIsland)
 3. [532. K-diff Pairs in an Array](https://github.com/akashanup/75DaysChallenge/tree/main/532.K-diffPairsInAnArray)
 4. [442. Find All Duplicates in an Array](https://github.com/akashanup/75DaysChallenge/tree/main/442.FindAllDuplicatesInAnArray)
+
+## Day9
+1. [55. Jump Game](https://github.com/akashanup/75DaysChallenge/tree/main/55.JumpGame)
+2. [78. Subsets](https://github.com/akashanup/75DaysChallenge/tree/main/78.Subsets)
+3. [974. Subarray Sums Divisible by K](https://github.com/akashanup/75DaysChallenge/tree/main/974.SubarraySumsDivisibleByK)
+4. [1169. Invalid Transactions](https://github.com/akashanup/75DaysChallenge/tree/main/1169.InvalidTransactions)
