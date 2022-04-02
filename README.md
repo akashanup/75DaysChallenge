@@ -52,3 +52,8 @@
 2. [78. Subsets](https://github.com/akashanup/75DaysChallenge/tree/main/78.Subsets)
 3. [974. Subarray Sums Divisible by K](https://github.com/akashanup/75DaysChallenge/tree/main/974.SubarraySumsDivisibleByK)
 4. [1169. Invalid Transactions](https://github.com/akashanup/75DaysChallenge/tree/main/1169.InvalidTransactions)
+
+## Day10
+1. [123. Best Time to Buy and Sell Stock III](https://github.com/akashanup/75DaysChallenge/tree/main/123.BestTimeToBuyAndSellStockIII)
+2. [41. First Missing Positive](https://github.com/akashanup/75DaysChallenge/tree/main/41.FirstMissingPositive)
+3. [84. Largest Rectangle in Histogram](https://github.com/akashanup/75DaysChallenge/tree/main/84.LargestRectangleInHistogram)
