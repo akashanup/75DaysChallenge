@@ -4,7 +4,6 @@ Given an integer array nums and an integer k, return the number of non-empty sub
 
 A subarray is a contiguous part of an array.
 
-
 ### Example 1
 ```sh
 Input: nums = [4,5,0,-2,-3,1], k = 5
