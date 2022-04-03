@@ -57,3 +57,7 @@
 1. [123. Best Time to Buy and Sell Stock III](https://github.com/akashanup/75DaysChallenge/tree/main/123.BestTimeToBuyAndSellStockIII)
 2. [41. First Missing Positive](https://github.com/akashanup/75DaysChallenge/tree/main/41.FirstMissingPositive)
 3. [84. Largest Rectangle in Histogram](https://github.com/akashanup/75DaysChallenge/tree/main/84.LargestRectangleInHistogram)
+
+## Day11
+1. [381. Insert Delete GetRandom O(1) - Duplicates allowed](https://github.com/akashanup/75DaysChallenge/tree/main/381.InsertDeleteGetRandomO-1-DuplicatesAllowed)
+
