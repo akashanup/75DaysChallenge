@@ -60,4 +60,5 @@
 
 ## Day11
 1. [381. Insert Delete GetRandom O(1) - Duplicates allowed](https://github.com/akashanup/75DaysChallenge/tree/main/381.InsertDeleteGetRandomO-1-DuplicatesAllowed)
+2. [1499. Max Value of Equation](https://github.com/akashanup/75DaysChallenge/tree/main/1499.MaxValueOfEquation)
 
