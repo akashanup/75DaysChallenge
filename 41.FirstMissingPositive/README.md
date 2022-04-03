@@ -4,7 +4,6 @@ Given an unsorted integer array nums, return the smallest missing positive integ
 
 You must implement an algorithm that runs in O(n) time and uses constant extra space.
 
-
 ### Example 1
 ```sh
 Input: nums = [1,2,0]
