@@ -62,3 +62,6 @@
 1. [381. Insert Delete GetRandom O(1) - Duplicates allowed](https://github.com/akashanup/75DaysChallenge/tree/main/381.InsertDeleteGetRandomO-1-DuplicatesAllowed)
 2. [1499. Max Value of Equation](https://github.com/akashanup/75DaysChallenge/tree/main/1499.MaxValueOfEquation)
 
+## Day12
+1. [763. Partition Labels](https://github.com/akashanup/75DaysChallenge/tree/main/763.PartitionLabels)
+2. [75. Sort Colors](https://github.com/akashanup/75DaysChallenge/tree/main/75.SortColors)
