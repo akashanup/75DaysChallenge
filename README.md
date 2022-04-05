@@ -65,3 +65,7 @@
 ## Day12
 1. [763. Partition Labels](https://github.com/akashanup/75DaysChallenge/tree/main/763.PartitionLabels)
 2. [75. Sort Colors](https://github.com/akashanup/75DaysChallenge/tree/main/75.SortColors)
+
+## Day13
+1. [424. Longest Repeating Character Replacement](https://github.com/akashanup/75DaysChallenge/tree/main/424.LongestRepeatingCharacterReplacement)
+2. [992. Subarrays with K Different Integers](https://github.com/akashanup/75DaysChallenge/tree/main/992.SubarraysWith-K-DifferentIntegers)
