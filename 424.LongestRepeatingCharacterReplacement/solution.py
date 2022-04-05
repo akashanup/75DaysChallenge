@@ -14,7 +14,7 @@ class Solution:
             """
                 Check whether the current window has utilized 'k' changes:
                     1. If yes, then slide the window by one position i.e, start becomes start+1 and the count of character at start index decreases by 1.
-                    2. If no, then
+                    2. If no, then update maxLen if window size is greater than maxLen
                 In the current window, 'k' changes has been done or not can be checked by knowing te window size and maximum count of any charcter in the window as:
                 (end-start+1) - maxCount > k
             """
