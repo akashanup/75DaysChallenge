@@ -69,3 +69,10 @@
 ## Day13
 1. [424. Longest Repeating Character Replacement](https://github.com/akashanup/75DaysChallenge/tree/main/424.LongestRepeatingCharacterReplacement)
 2. [992. Subarrays with K Different Integers](https://github.com/akashanup/75DaysChallenge/tree/main/992.SubarraysWith-K-DifferentIntegers)
+
+## Day14
+1. [1351. Count Negative Numbers In A Sorted Matrix](https://github.com/akashanup/75DaysChallenge/tree/main/1351.CountNegativeNumbersInSortedMatrix)
+2. [852. Peak Index in a Mountain Array](https://github.com/akashanup/75DaysChallenge/tree/main/852.PeakIndexInMountainArray)
+3. [981. Time Based Key-Value Store](https://github.com/akashanup/75DaysChallenge/tree/main/981.TimeBasedKeyValueStore)
+4. [33. Search In Rotated Sorted Array](https://github.com/akashanup/75DaysChallenge/tree/main/33.SearchInRotatedSortedArray)
+
