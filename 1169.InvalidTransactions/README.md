@@ -22,7 +22,7 @@ Input: transactions = ["alice,20,800,mtv","alice,50,1200,mtv"]
 Output: ["alice,50,1200,mtv"]
 ```
 
-### Example 2
+### Example 3
 ```sh
 Input: transactions = ["alice,20,800,mtv","bob,50,1200,mtv"]
 Output: ["bob,50,1200,mtv"]
