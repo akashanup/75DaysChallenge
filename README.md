@@ -76,3 +76,9 @@
 3. [981. Time Based Key-Value Store](https://github.com/akashanup/75DaysChallenge/tree/main/981.TimeBasedKeyValueStore)
 4. [33. Search In Rotated Sorted Array](https://github.com/akashanup/75DaysChallenge/tree/main/33.SearchInRotatedSortedArray)
 
+## Day15
+1. [50. Pow(x,n)](https://github.com/akashanup/75DaysChallenge/tree/main/50.PowOfX-N)
+2. [34. Find First and Last Position of Element in Sorted Array](https://github.com/akashanup/75DaysChallenge/tree/main/34.FindFirstAndLastPositionOfElementInSortedArray)
+3. [162. Find Peak Element](https://github.com/akashanup/75DaysChallenge/tree/main/162.FindPeakElement)
+4. [74. Search a 2D Matrix](https://github.com/akashanup/75DaysChallenge/tree/main/74.SearchA2DMatrix)
+
