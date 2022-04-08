@@ -82,3 +82,9 @@
 3. [162. Find Peak Element](https://github.com/akashanup/75DaysChallenge/tree/main/162.FindPeakElement)
 4. [74. Search a 2D Matrix](https://github.com/akashanup/75DaysChallenge/tree/main/74.SearchA2DMatrix)
 
+## Day16
+1. [29. Divide Two Integers](https://github.com/akashanup/75DaysChallenge/tree/main/29.DivideTwoIntegers)
+2. [1011. Capacity To Ship Packages Within D Days](https://github.com/akashanup/75DaysChallenge/tree/main/1011.CapacityToShipPackagesWithin-D-Days)
+3. [1760. Minimum Limit of Balls in a Bag](https://github.com/akashanup/75DaysChallenge/tree/main/1760.MinimumLimitOfBallsInBag)
+4. [4. Median of Two Sorted Arrays](https://github.com/akashanup/75DaysChallenge/tree/main/4.MedianOfTwoSortedArrays)
+
