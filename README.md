@@ -88,3 +88,8 @@
 3. [1760. Minimum Limit of Balls in a Bag](https://github.com/akashanup/75DaysChallenge/tree/main/1760.MinimumLimitOfBallsInBag)
 4. [4. Median of Two Sorted Arrays](https://github.com/akashanup/75DaysChallenge/tree/main/4.MedianOfTwoSortedArrays)
 
+
+## Day17
+1. [410. Split Array Largest Sum](https://github.com/akashanup/75DaysChallenge/tree/main/410.SplitArrayLargestSum)
+2. [315. Count of Smaller Numbers After Self](https://github.com/akashanup/75DaysChallenge/tree/main/315.CountOfSmallerNumbersAfterSelf)
+
