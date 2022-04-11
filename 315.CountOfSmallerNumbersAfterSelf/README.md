@@ -19,7 +19,7 @@ Input: nums = [-1]
 Output: [0]
 ```
 
-### Example 2
+### Example 3
 ```sh
 Input: nums = [-1,-1]
 Output: [0,0]
