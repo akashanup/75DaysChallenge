@@ -88,8 +88,18 @@
 3. [1760. Minimum Limit of Balls in a Bag](https://github.com/akashanup/75DaysChallenge/tree/main/1760.MinimumLimitOfBallsInBag)
 4. [4. Median of Two Sorted Arrays](https://github.com/akashanup/75DaysChallenge/tree/main/4.MedianOfTwoSortedArrays)
 
-
 ## Day17
 1. [410. Split Array Largest Sum](https://github.com/akashanup/75DaysChallenge/tree/main/410.SplitArrayLargestSum)
 2. [315. Count of Smaller Numbers After Self](https://github.com/akashanup/75DaysChallenge/tree/main/315.CountOfSmallerNumbersAfterSelf)
+
+## Day18
+1. [Hashing | Set 1 (Introduction) - GeeksforGeeks](https://www.geeksforgeeks.org/hashing-set-1-introduction/)
+2. [Hashing | Set 2 (Separate Chaining) - GeeksforGeeks](https://www.geeksforgeeks.org/hashing-set-2-separate-chaining/)
+2. [Hashing | Set 3 (Open Addressing) - GeeksforGeeks](https://www.geeksforgeeks.org/hashing-set-3-open-addressing/)
+
+## Day19
+1. [953. Verifying an Alien Dictionary](https://github.com/akashanup/75DaysChallenge/tree/main/953.VerifyingAnAlienDictionary)
+2. [706. Design HashMap](https://github.com/akashanup/75DaysChallenge/tree/main/706.DesignHashMap)
+3. [347. Top K Frequent Elements](https://github.com/akashanup/75DaysChallenge/tree/main/347.Top-K-FrequentElements)
+4. [355. Design Twitter](https://github.com/akashanup/75DaysChallenge/tree/main/355.DesignTwitter)
 
