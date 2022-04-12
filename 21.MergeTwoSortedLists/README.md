@@ -19,7 +19,7 @@ Input: list1 = [], list2 = []
 Output: []
 ```
 
-### Example 2
+### Example 3
 ```sh
 Input: list1 = [], list2 = [0]
 Output: [0]
