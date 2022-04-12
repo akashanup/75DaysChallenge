@@ -103,3 +103,9 @@
 3. [347. Top K Frequent Elements](https://github.com/akashanup/75DaysChallenge/tree/main/347.Top-K-FrequentElements)
 4. [355. Design Twitter](https://github.com/akashanup/75DaysChallenge/tree/main/355.DesignTwitter)
 
+## Day20
+1. [206. Reverse Linked List](https://github.com/akashanup/75DaysChallenge/tree/main/206.ReverseLinkedList)
+2. [876. Middle of the Linked List](https://github.com/akashanup/75DaysChallenge/tree/main/876.MiddleOfTheLinkedList)
+3. [21. Merge Two Sorted Lists](https://github.com/akashanup/75DaysChallenge/tree/main/21.MergeTwoSortedLists)
+4. [19. Remove Nth Node From End of List](https://github.com/akashanup/75DaysChallenge/tree/main/19.RemoveNthNodeFromEndOfList)
+
