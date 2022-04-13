@@ -109,3 +109,9 @@
 3. [21. Merge Two Sorted Lists](https://github.com/akashanup/75DaysChallenge/tree/main/21.MergeTwoSortedLists)
 4. [19. Remove Nth Node From End of List](https://github.com/akashanup/75DaysChallenge/tree/main/19.RemoveNthNodeFromEndOfList)
 
+## Day21
+1. [237. Delete Node in a Linked List](https://github.com/akashanup/75DaysChallenge/tree/main/237.DeleteNodeInLinkedList)
+2. [445. Add Two Numbers II](https://github.com/akashanup/75DaysChallenge/tree/main/445.AddTwoNumbersII)
+3. [160. Intersection of Two Linked Lists](https://github.com/akashanup/75DaysChallenge/tree/main/160.IntersectionOfTwoLinkedLists)
+4. [234. Palindrome Linked List](https://github.com/akashanup/75DaysChallenge/tree/main/234.PalindromeLinkedList)
+
