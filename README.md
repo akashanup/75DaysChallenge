@@ -115,3 +115,7 @@
 3. [160. Intersection of Two Linked Lists](https://github.com/akashanup/75DaysChallenge/tree/main/160.IntersectionOfTwoLinkedLists)
 4. [234. Palindrome Linked List](https://github.com/akashanup/75DaysChallenge/tree/main/234.PalindromeLinkedList)
 
+## Day22
+1. [25. Reverse Nodes in k-Group](https://github.com/akashanup/75DaysChallenge/tree/main/25.ReverseNodesInK-Group)
+2. [142. Linked List Cycle II](https://github.com/akashanup/75DaysChallenge/tree/main/142.LinkedListCycleII)
+3. [61. Rotate List](https://github.com/akashanup/75DaysChallenge/tree/main/61.RotateList)
