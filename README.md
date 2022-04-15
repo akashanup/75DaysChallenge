@@ -119,3 +119,8 @@
 1. [25. Reverse Nodes in k-Group](https://github.com/akashanup/75DaysChallenge/tree/main/25.ReverseNodesInK-Group)
 2. [142. Linked List Cycle II](https://github.com/akashanup/75DaysChallenge/tree/main/142.LinkedListCycleII)
 3. [61. Rotate List](https://github.com/akashanup/75DaysChallenge/tree/main/61.RotateList)
+
+## Day23
+1. [430. Flatten a Multilevel Doubly Linked List](https://github.com/akashanup/75DaysChallenge/tree/main/430.FlattenMultilevelDoublyLinkedList)
+2. [138. Copy List with Random Pointer](https://github.com/akashanup/75DaysChallenge/tree/main/138.CopyListWithRandomPointer)
+3. [287. Find the Duplicate Number](https://github.com/akashanup/75DaysChallenge/tree/main/287.FindTheDuplicateNumber)
