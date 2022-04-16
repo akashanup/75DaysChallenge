@@ -124,3 +124,9 @@
 1. [430. Flatten a Multilevel Doubly Linked List](https://github.com/akashanup/75DaysChallenge/tree/main/430.FlattenMultilevelDoublyLinkedList)
 2. [138. Copy List with Random Pointer](https://github.com/akashanup/75DaysChallenge/tree/main/138.CopyListWithRandomPointer)
 3. [287. Find the Duplicate Number](https://github.com/akashanup/75DaysChallenge/tree/main/287.FindTheDuplicateNumber)
+
+## Day23
+1. [496. Next Greater Element I](https://github.com/akashanup/75DaysChallenge/tree/main/496.NextGreaterElementI)
+2. [503. Next Greater Element II](https://github.com/akashanup/75DaysChallenge/tree/main/503.NextGreaterElementII)
+3. [225. Implement Stack using Queues](https://github.com/akashanup/75DaysChallenge/tree/main/225.ImplementStackUsingQueues)
+4. [232. Implement Queue using Stacks](https://github.com/akashanup/75DaysChallenge/tree/main/232.ImplementQueueUsingStacks)
