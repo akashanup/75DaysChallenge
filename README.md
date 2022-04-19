@@ -136,3 +136,13 @@
 2. [155. Min Stack](https://github.com/akashanup/75DaysChallenge/tree/main/155.MinStack)
 3. [Help Classmates](https://github.com/akashanup/75DaysChallenge/tree/main/HelpClassmates)
 4. [146. LRU Cache](https://github.com/akashanup/75DaysChallenge/tree/main/146.LRUCache)
+
+## Day26
+1. [239. Sliding Window Maximum](https://github.com/akashanup/75DaysChallenge/tree/main/239.SlidingWindowMaximum)
+2. [460. LFU Cache](https://github.com/akashanup/75DaysChallenge/tree/main/460.LFUCache)
+
+## Day27
+1. [543. Diameter of Binary Tree](https://github.com/akashanup/75DaysChallenge/tree/main/543.DiameterOfBinaryTree)
+2. [226. Invert Binary Tree](https://github.com/akashanup/75DaysChallenge/tree/main/226.InvertBinaryTree)
+3. [572. Subtree of Another Tree](https://github.com/akashanup/75DaysChallenge/tree/main/572.SubtreeOfAnotherTree)
+4. [101. Symmetric Tree](https://github.com/akashanup/75DaysChallenge/tree/main/101.SymmetricTree)
