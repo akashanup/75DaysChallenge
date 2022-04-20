@@ -146,3 +146,9 @@
 2. [226. Invert Binary Tree](https://github.com/akashanup/75DaysChallenge/tree/main/226.InvertBinaryTree)
 3. [572. Subtree of Another Tree](https://github.com/akashanup/75DaysChallenge/tree/main/572.SubtreeOfAnotherTree)
 4. [101. Symmetric Tree](https://github.com/akashanup/75DaysChallenge/tree/main/101.SymmetricTree)
+
+## Day28
+1. [108. Convert Sorted Array to Binary Search Tree](https://github.com/akashanup/75DaysChallenge/tree/main/108.ConvertSortedArrayToBinarySearchTree)
+2. [617. Merge Two Binary Trees](https://github.com/akashanup/75DaysChallenge/tree/main/617.MergeTwoBinaryTrees)
+3. [104. Maximum Depth of Binary Tree](https://github.com/akashanup/75DaysChallenge/tree/main/104.MaximumDepthOfBinaryTree)
+4. [257. Binary Tree Paths](https://github.com/akashanup/75DaysChallenge/tree/main/257.BinaryTreePaths)
