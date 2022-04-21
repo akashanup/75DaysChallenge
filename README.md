@@ -152,3 +152,9 @@
 2. [617. Merge Two Binary Trees](https://github.com/akashanup/75DaysChallenge/tree/main/617.MergeTwoBinaryTrees)
 3. [104. Maximum Depth of Binary Tree](https://github.com/akashanup/75DaysChallenge/tree/main/104.MaximumDepthOfBinaryTree)
 4. [257. Binary Tree Paths](https://github.com/akashanup/75DaysChallenge/tree/main/257.BinaryTreePaths)
+
+## Day29
+1. [100. Same Tree](https://github.com/akashanup/75DaysChallenge/tree/main/100.SameTree)
+2. [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/akashanup/75DaysChallenge/tree/main/235.LowestCommonAncestorOfBinarySearchTree)
+3. [112. Path Sum](https://github.com/akashanup/75DaysChallenge/tree/main/112.PathSum)
+4. [530. Minimum Absolute Difference in BST](https://github.com/akashanup/75DaysChallenge/tree/main/530.MinimumAbsoluteDifferenceInBST)
