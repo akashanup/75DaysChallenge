@@ -158,3 +158,9 @@
 2. [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/akashanup/75DaysChallenge/tree/main/235.LowestCommonAncestorOfBinarySearchTree)
 3. [112. Path Sum](https://github.com/akashanup/75DaysChallenge/tree/main/112.PathSum)
 4. [530. Minimum Absolute Difference in BST](https://github.com/akashanup/75DaysChallenge/tree/main/530.MinimumAbsoluteDifferenceInBST)
+
+## Day30
+1. [404. Sum of Left Leaves](https://github.com/akashanup/75DaysChallenge/tree/main/404.SumOfLeftLeaves)
+2. [110. Balanced Binary Tree](https://github.com/akashanup/75DaysChallenge/tree/main/110.BalancedBinaryTree)
+3. [662. Maximum Width of Binary Tree](https://github.com/akashanup/75DaysChallenge/tree/main/662.MaximumWidthOfBinaryTree)
+4. [1448. Count Good Nodes in Binary Tree](https://github.com/akashanup/75DaysChallenge/tree/main/1448.CountGoodNodesInBinaryTree)
