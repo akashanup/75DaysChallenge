@@ -164,3 +164,9 @@
 2. [110. Balanced Binary Tree](https://github.com/akashanup/75DaysChallenge/tree/main/110.BalancedBinaryTree)
 3. [662. Maximum Width of Binary Tree](https://github.com/akashanup/75DaysChallenge/tree/main/662.MaximumWidthOfBinaryTree)
 4. [1448. Count Good Nodes in Binary Tree](https://github.com/akashanup/75DaysChallenge/tree/main/1448.CountGoodNodesInBinaryTree)
+
+## Day31
+1. [236. Lowest Common Ancestor of a Binary Tree](https://github.com/akashanup/75DaysChallenge/tree/main/236.LowestCommonAncestorOfBinaryTree)
+2. [199. Binary Tree Right Side View](https://github.com/akashanup/75DaysChallenge/tree/main/199.BinaryTreeRightSideView)
+3. [863. All Nodes Distance K in Binary Tree](https://github.com/akashanup/75DaysChallenge/tree/main/863.AllNodesDistance-K-InBinaryTree)
+4. [297.SerializeAndDeserializeBinaryTree](https://github.com/akashanup/75DaysChallenge/tree/main/297.SerializeAndDeserializeBinaryTree)
