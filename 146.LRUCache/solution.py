@@ -15,7 +15,7 @@ class LRUCache:
 
     # Move the node to end of DLL
     def moveNodeToEnd(self, node):
-        # Detach node. Detach iff there are more than 1 nodes and the node to be deatched isn't the last node.
+        # Detach node. Detach iff there are more than 1 nodes and the node to be detached isn't the last node.
         if self.start != self.end and self.end != node:
             leftNode = node.left
             node.left = None
