@@ -176,3 +176,12 @@
 2. [173. Binary Search Tree Iterator](https://github.com/akashanup/75DaysChallenge/tree/main/173.BinarySearchTreeIterator)
 3. [102. Binary Tree Level Order Traversal](https://github.com/akashanup/75DaysChallenge/tree/main/102.BinaryTreeLevelOrderTraversal)
 4. [437. Path Sum III](https://github.com/akashanup/75DaysChallenge/tree/main/437.PathSumIII)
+
+## Day33
+1. [889. Construct Binary Tree From Preorder And Postorder Traversal](https://github.com/akashanup/75DaysChallenge/tree/main/889.ConstructBinaryTreeFromPreorderAndPostorderTraversal)
+2. [116. Populating Next Right Pointers in Each Node](https://github.com/akashanup/75DaysChallenge/tree/main/116.PopulatingNextRightPointersInEachNode)
+3. [114. Flatten Binary Tree to Linked List](https://github.com/akashanup/75DaysChallenge/tree/main/114.FlattenBinaryTreeToLinkedList)
+
+## Day34
+1. [Binary Search Tree | Search, Insertion And Deletion](https://github.com/akashanup/75DaysChallenge/tree/main/BinarySearchTreeSet1SearchAndInsertionAndDeletion)
+2. [938. Range Sum of BST](https://github.com/akashanup/75DaysChallenge/tree/main/938.RangeSumOfBST)
