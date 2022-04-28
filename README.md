@@ -185,3 +185,8 @@
 ## Day34
 1. [Binary Search Tree | Search, Insertion And Deletion](https://github.com/akashanup/75DaysChallenge/tree/main/BinarySearchTreeSet1SearchAndInsertionAndDeletion)
 2. [938. Range Sum of BST](https://github.com/akashanup/75DaysChallenge/tree/main/938.RangeSumOfBST)
+
+## Day35
+1. [95. Unique Binary Search Trees II](https://github.com/akashanup/75DaysChallenge/tree/main/95.UniqueBinarySearchTreesII)
+2. [230. Kth Smallest Element in a BST](https://github.com/akashanup/75DaysChallenge/tree/main/230.KthSmallestElementInBST)
+3. [99. Recover Binary Search Tree](https://github.com/akashanup/75DaysChallenge/tree/main/99.RecoverBinarySearchTree)
