@@ -202,3 +202,12 @@
 2. [Sort a nearly sorted (or K sorted) array](https://github.com/akashanup/75DaysChallenge/tree/main/SortNearlySortedOr-K-SortedArray)
 3. [295. Find Median from Data Stream](https://github.com/akashanup/75DaysChallenge/tree/main/295.FindMedianFromDataStream)
 4. [215. Kth Largest Element in an Array](https://github.com/akashanup/75DaysChallenge/tree/main/215.KthLargestElementInAnArray)
+
+## Day39
+1. [23. Merge k Sorted Lists](https://github.com/akashanup/75DaysChallenge/tree/main/23.Merge-K-SortedLists)
+2. [218. The Skyline Problem](https://github.com/akashanup/75DaysChallenge/tree/main/218.TheSkylineProblem)
+
+## Day40
+1. [621. Task Scheduler](https://github.com/akashanup/75DaysChallenge/tree/main/621.TaskScheduler)
+2. [743. Network Delay Time](https://github.com/akashanup/75DaysChallenge/tree/main/743.NetworkDelayTime)
+2. [1046. Last Stone Weight](https://github.com/akashanup/75DaysChallenge/tree/main/1046.LastStoneWeight)
