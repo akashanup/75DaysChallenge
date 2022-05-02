@@ -187,6 +187,18 @@
 2. [938. Range Sum of BST](https://github.com/akashanup/75DaysChallenge/tree/main/938.RangeSumOfBST)
 
 ## Day35
-1. [95. Unique Binary Search Trees II](https://github.com/akashanup/75DaysChallenge/tree/main/95.UniqueBinarySearchTreesII)
-2. [230. Kth Smallest Element in a BST](https://github.com/akashanup/75DaysChallenge/tree/main/230.KthSmallestElementInBST)
+1. [108. Convert Sorted Array to Binary Search Tree](https://github.com/akashanup/75DaysChallenge/tree/main/108.ConvertSortedArrayToBinarySearchTree)
+2. [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/akashanup/75DaysChallenge/tree/main/235.LowestCommonAncestorOfBinarySearchTree)
+3. [530. Minimum Absolute Difference in BST](https://github.com/akashanup/75DaysChallenge/tree/main/530.MinimumAbsoluteDifferenceInBST)
+4. [98. Validate Binary Search Tree](https://github.com/akashanup/75DaysChallenge/tree/main/98.ValidateBinarySearchTree)
+
+## Day36
+1. [230. Kth Smallest Element in a BST](https://github.com/akashanup/75DaysChallenge/tree/main/230.KthSmallestElementInBST)
+2. [96. Unique Binary Search Trees](https://github.com/akashanup/75DaysChallenge/tree/main/96.UniqueBinarySearchTrees)
 3. [99. Recover Binary Search Tree](https://github.com/akashanup/75DaysChallenge/tree/main/99.RecoverBinarySearchTree)
+
+## Day38
+1. [Merge K Sorted Arrays](https://github.com/akashanup/75DaysChallenge/tree/main/Merge-K-SortedArrays)
+2. [Sort a nearly sorted (or K sorted) array](https://github.com/akashanup/75DaysChallenge/tree/main/SortNearlySortedOr-K-SortedArray)
+3. [295. Find Median from Data Stream](https://github.com/akashanup/75DaysChallenge/tree/main/295.FindMedianFromDataStream)
+4. [215. Kth Largest Element in an Array](https://github.com/akashanup/75DaysChallenge/tree/main/215.KthLargestElementInAnArray)
