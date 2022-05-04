@@ -211,3 +211,8 @@
 1. [621. Task Scheduler](https://github.com/akashanup/75DaysChallenge/tree/main/621.TaskScheduler)
 2. [743. Network Delay Time](https://github.com/akashanup/75DaysChallenge/tree/main/743.NetworkDelayTime)
 2. [1046. Last Stone Weight](https://github.com/akashanup/75DaysChallenge/tree/main/1046.LastStoneWeight)
+
+## Day41
+1. [N meetings in one room](https://github.com/akashanup/75DaysChallenge/tree/main/N-MeetingsInOneRoom)
+2. [Minimum Platforms](https://github.com/akashanup/75DaysChallenge/tree/main/MinimumPlatforms)
+2. [Job Sequencing Problem](https://github.com/akashanup/75DaysChallenge/tree/main/JobSequencingProblem)
