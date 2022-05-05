@@ -5,7 +5,7 @@ class Solution:
         path.append((r, c))
         if r == len(mat)-1 and c == len(mat[0])-1:
             return True
-        mat[r][c] = '0'
+        mat[r][c] = 0
         if self.recur(mat, r+1, c, path) or self.recur(mat, r, c+1, path):
             return True
         # Backtrack
