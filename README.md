@@ -216,3 +216,8 @@
 1. [N meetings in one room](https://github.com/akashanup/75DaysChallenge/tree/main/N-MeetingsInOneRoom)
 2. [Minimum Platforms](https://github.com/akashanup/75DaysChallenge/tree/main/MinimumPlatforms)
 2. [Job Sequencing Problem](https://github.com/akashanup/75DaysChallenge/tree/main/JobSequencingProblem)
+
+## Day42
+1. [Rat in a Maze](https://github.com/akashanup/75DaysChallenge/tree/main/RatInMaze)
+2. [The Knight’s tour problem](https://github.com/akashanup/75DaysChallenge/tree/main/TheKnightTourProblem)
+2. [Subset Sum](https://github.com/akashanup/75DaysChallenge/tree/main/SubsetSum)
