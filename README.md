@@ -214,10 +214,20 @@
 
 ## Day41
 1. [N meetings in one room](https://github.com/akashanup/75DaysChallenge/tree/main/N-MeetingsInOneRoom)
-2. [Minimum Platforms](https://github.com/akashanup/75DaysChallenge/tree/main/MinimumPlatforms)
-2. [Job Sequencing Problem](https://github.com/akashanup/75DaysChallenge/tree/main/JobSequencingProblem)
+2. [Activity Selection](https://github.com/akashanup/75DaysChallenge/tree/main/ActivitySelection)
+2. [Minimum number of Coins](https://github.com/akashanup/75DaysChallenge/tree/main/MinimumNumberOfCoins)
 
 ## Day42
+1. [Fractional Knapsack](https://github.com/akashanup/75DaysChallenge/tree/main/FractionalKnapsack)
+2. [Minimum Platforms](https://github.com/akashanup/75DaysChallenge/tree/main/MinimumPlatforms)
+3. [Job Sequencing Problem](https://github.com/akashanup/75DaysChallenge/tree/main/JobSequencingProblem)
+
+## Day43
 1. [Rat in a Maze](https://github.com/akashanup/75DaysChallenge/tree/main/RatInMaze)
 2. [The Knight’s tour problem](https://github.com/akashanup/75DaysChallenge/tree/main/TheKnightTourProblem)
 2. [Subset Sum](https://github.com/akashanup/75DaysChallenge/tree/main/SubsetSum)
+
+## Day44
+1. [17. Letter Combinations of a Phone Number](https://github.com/akashanup/75DaysChallenge/tree/main/17.LetterCombinationsOfPhoneNumber)
+2. [22. Generate Parentheses](https://github.com/akashanup/75DaysChallenge/tree/main/22.GenerateParentheses)
+3. [37. Sudoku Solver](https://github.com/akashanup/75DaysChallenge/tree/main/37.SudokuSolver)
