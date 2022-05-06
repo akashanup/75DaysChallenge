@@ -28,9 +28,7 @@ each roll number helps in order. ie- 2,5,2,-1,-1
 ```sh
 Input: N = 4, a[] = {1, 2, 3, 4}
 Output: -1 -1 -1 -1 
-Explanation: As the marks ars in increasing order. 
-None of the students can find a classmate who has 
-a higher roll number and less marks than them.
+Explanation: As the marks ars in increasing order. None of the students can find a classmate who has a higher roll number and less marks than them.
 ```
 
 ### Task
@@ -40,5 +38,5 @@ You don't need to read input or print anything. Complete the function help_class
 
 ### Constraints
 ```sh
-1 ≤ N ≤ 5*10^5
+1 <= N <= 5*10^5
 ```
