@@ -231,3 +231,9 @@
 1. [17. Letter Combinations of a Phone Number](https://github.com/akashanup/75DaysChallenge/tree/main/17.LetterCombinationsOfPhoneNumber)
 2. [22. Generate Parentheses](https://github.com/akashanup/75DaysChallenge/tree/main/22.GenerateParentheses)
 3. [37. Sudoku Solver](https://github.com/akashanup/75DaysChallenge/tree/main/37.SudokuSolver)
+
+## Day45
+1. [46. Permutations](https://github.com/akashanup/75DaysChallenge/tree/main/46.Permutations)
+2. [77. Combinations](https://github.com/akashanup/75DaysChallenge/tree/main/77.Combinations)
+3. [39. Combination Sum](https://github.com/akashanup/75DaysChallenge/tree/main/39.CombinationSum)
+3. [40. Combination Sum II](https://github.com/akashanup/75DaysChallenge/tree/main/40.CombinationSumII)
