@@ -8,5 +8,5 @@ class Solution:
                 self.recur(candidates, target - candidate, temp + [candidate], combinations)
         return combinations
 
-    def combinationSum(self, candidates: List[int], target: int, combination=[]) -> List[List[int]]:
+    def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         return self.recur(candidates, target, [], set())
