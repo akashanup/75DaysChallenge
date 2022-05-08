@@ -237,3 +237,9 @@
 2. [77. Combinations](https://github.com/akashanup/75DaysChallenge/tree/main/77.Combinations)
 3. [39. Combination Sum](https://github.com/akashanup/75DaysChallenge/tree/main/39.CombinationSum)
 3. [40. Combination Sum II](https://github.com/akashanup/75DaysChallenge/tree/main/40.CombinationSumII)
+
+## Day46
+1. [51. N-Queens](https://github.com/akashanup/75DaysChallenge/tree/main/51.N-Queens)
+2. [78. Subsets](https://github.com/akashanup/75DaysChallenge/tree/main/78.Subsets)
+3. [89. Gray Code](https://github.com/akashanup/75DaysChallenge/tree/main/89.GrayCode)
+4. [95. Unique Binary Search Trees II](https://github.com/akashanup/75DaysChallenge/tree/main/95.UniqueBinarySearchTreesII)
