@@ -243,3 +243,14 @@
 2. [78. Subsets](https://github.com/akashanup/75DaysChallenge/tree/main/78.Subsets)
 3. [89. Gray Code](https://github.com/akashanup/75DaysChallenge/tree/main/89.GrayCode)
 4. [95. Unique Binary Search Trees II](https://github.com/akashanup/75DaysChallenge/tree/main/95.UniqueBinarySearchTreesII)
+
+## Day47
+1. [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
+2. [Introduction to Dynamic Programming 1](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/)
+3. [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
+4. [DP for Beginners [Problems | Patterns | Sample Solutions]](https://leetcode.com/discuss/general-discussion/662866/Dynamic-Programming-for-Practice-Problems-Patterns-and-Sample-Solutions)
+
+## Day48
+1. [152. Maximum Product Subarray](https://github.com/akashanup/75DaysChallenge/tree/main/152.MaximumProductSubarray)
+2. [300. Longest Increasing Subsequence](https://github.com/akashanup/75DaysChallenge/tree/main/300.LongestIncreasingSubsequence)
+3. [1143. Longest Common Subsequence](https://github.com/akashanup/75DaysChallenge/tree/main/1143.LongestCommonSubsequence)
