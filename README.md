@@ -259,3 +259,7 @@
 1. [0 - 1 Knapsack Problem](https://github.com/akashanup/75DaysChallenge/tree/main/0-1KnapsackProblem)
 2. [72. Edit Distance](https://github.com/akashanup/75DaysChallenge/tree/main/72.EditDistance)
 3. [Maximum sum increasing subsequence](https://github.com/akashanup/75DaysChallenge/tree/main/MaximumSumIncreasingSubsequence)
+
+## Day50
+1. [Matrix Chain Multiplication](https://github.com/akashanup/75DaysChallenge/tree/main/MatrixChainMultiplication)
+2. [64. Minimum Path Sum](https://github.com/akashanup/75DaysChallenge/tree/main/64.MinimumPathSum)
