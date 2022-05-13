@@ -254,3 +254,8 @@
 1. [152. Maximum Product Subarray](https://github.com/akashanup/75DaysChallenge/tree/main/152.MaximumProductSubarray)
 2. [300. Longest Increasing Subsequence](https://github.com/akashanup/75DaysChallenge/tree/main/300.LongestIncreasingSubsequence)
 3. [1143. Longest Common Subsequence](https://github.com/akashanup/75DaysChallenge/tree/main/1143.LongestCommonSubsequence)
+
+## Day49
+1. [0 - 1 Knapsack Problem](https://github.com/akashanup/75DaysChallenge/tree/main/0-1KnapsackProblem)
+2. [72. Edit Distance](https://github.com/akashanup/75DaysChallenge/tree/main/72.EditDistance)
+3. [Maximum sum increasing subsequence](https://github.com/akashanup/75DaysChallenge/tree/main/MaximumSumIncreasingSubsequence)
