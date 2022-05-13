@@ -263,3 +263,8 @@
 ## Day50
 1. [Matrix Chain Multiplication](https://github.com/akashanup/75DaysChallenge/tree/main/MatrixChainMultiplication)
 2. [64. Minimum Path Sum](https://github.com/akashanup/75DaysChallenge/tree/main/64.MinimumPathSum)
+
+## Day51
+1. [322. Coin Change](https://github.com/akashanup/75DaysChallenge/tree/main/322.CoinChange)
+2. [Subset Sum Problem](https://github.com/akashanup/75DaysChallenge/tree/main/SubsetSumProblem)
+3. [Rod Cutting](https://github.com/akashanup/75DaysChallenge/tree/main/RodCutting)
