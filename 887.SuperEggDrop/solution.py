@@ -11,7 +11,7 @@ import sys
         3. From step 1, we can deduce that-
             a. dp(n,k) = min(1+ max(dp(i-1, k-1), dp(n-i, k))) for all i in [1,n]
                 i. For floor i, max(dp(i-1, k-1), dp(n-i, k))) is used because we want to find the maximum cases that could arise as then only we can guarantee the value of floor f
-                ii. min(1+ max(dp(i-1, k-1), dp(n-i, k))) for all i in [1,n] is used because we want to find the minimum number of moves that is done for all floors [1,n] guarantee the value of floor f.        
+                ii. min(1+ max(dp(i-1, k-1), dp(n-i, k))) for all i in [1,n] is used because we want to find the minimum number of moves that is done for all floors [1,n] to guarantee the value of floor f.        
 """
 
 
