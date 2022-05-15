@@ -2,7 +2,7 @@ import sys
 
 """
     Logic:
-        1. For any floor i, dropping a egg from this floor would always lead to two possibilities-
+        1. For any floor i, dropping an egg from this floor would always lead to two possibilities-
             a. The egg would break.
                 i. It means, floors greater than ith floor are of no use as the egg would definitely break for all floors (>i).
             b. The egg would not break.
