@@ -268,3 +268,8 @@
 1. [322. Coin Change](https://github.com/akashanup/75DaysChallenge/tree/main/322.CoinChange)
 2. [Subset Sum Problem](https://github.com/akashanup/75DaysChallenge/tree/main/SubsetSumProblem)
 3. [Rod Cutting](https://github.com/akashanup/75DaysChallenge/tree/main/RodCutting)
+
+## Day52
+1. [887. Super Egg Drop](https://github.com/akashanup/75DaysChallenge/tree/main/887.SuperEggDrop)
+2. [139. Word Break](https://github.com/akashanup/75DaysChallenge/tree/main/139.WordBreak)
+3. [132. Palindrome Partitioning II](https://github.com/akashanup/75DaysChallenge/tree/main/132.PalindromePartitioningII)
