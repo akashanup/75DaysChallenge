@@ -42,9 +42,9 @@ class Solution:
                     if survived > notSurvived:
                         bottom = mid + 1
                     else:
-                        # If egg didn't survive at (mid)th floor then check for below floors
+                        # If egg didn't survive at (mid)th floor then check whether the egg could survive for below floors
                         top = mid
-                    # moves would be 1 + maximum of survived, notSurvived for remaining of floors and eggs.
+                    # moves would be 1(move made on current floor) + maximum of (survived, notSurvived)
                     moves = 1 + max(survived, notSurvived)
 
                     minMoves = min(minMoves, moves)
