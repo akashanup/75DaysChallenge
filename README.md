@@ -273,3 +273,7 @@
 1. [887. Super Egg Drop](https://github.com/akashanup/75DaysChallenge/tree/main/887.SuperEggDrop)
 2. [139. Word Break](https://github.com/akashanup/75DaysChallenge/tree/main/139.WordBreak)
 3. [132. Palindrome Partitioning II](https://github.com/akashanup/75DaysChallenge/tree/main/132.PalindromePartitioningII)
+
+## Day58
+1. [CriticalConnectionsInNetwork](https://github.com/akashanup/programming/tree/main/CriticalConnectionsInNetwork)
+2. [Articulation Points](https://github.com/akashanup/75DaysChallenge/tree/main/ArticulationPoints)
