@@ -275,5 +275,17 @@
 3. [132. Palindrome Partitioning II](https://github.com/akashanup/75DaysChallenge/tree/main/132.PalindromePartitioningII)
 
 ## Day58
-1. [CriticalConnectionsInNetwork](https://github.com/akashanup/programming/tree/main/CriticalConnectionsInNetwork)
+1. [Critical Connections In Network](https://github.com/akashanup/programming/tree/main/CriticalConnectionsInNetwork)
 2. [Articulation Points](https://github.com/akashanup/75DaysChallenge/tree/main/ArticulationPoints)
+
+## Day61
+1. [133. Clone Graph](https://github.com/akashanup/programming/tree/main/133.CloneGraph)
+2. [207. Course Schedule](https://github.com/akashanup/75DaysChallenge/tree/main/207.CourseSchedule)
+3. [310. Minimum Height Trees](https://github.com/akashanup/75DaysChallenge/tree/main/310.MinimumHeightTrees)
+4. [332. Reconstruct Itinerary](https://github.com/akashanup/75DaysChallenge/tree/main/332.ReconstructItinerary)
+
+## Day62
+1. [399. Evaluate Division](https://github.com/akashanup/programming/tree/main/399.EvaluateDivision)
+2. [547. Number of Provinces](https://github.com/akashanup/75DaysChallenge/tree/main/547.NumberOfProvinces)
+3. [684. Redundant Connection](https://github.com/akashanup/75DaysChallenge/tree/main/684.RedundantConnection)
+4. [743. Network Delay Time](https://github.com/akashanup/75DaysChallenge/tree/main/743.NetworkDelayTime)
