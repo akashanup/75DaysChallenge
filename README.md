@@ -289,3 +289,9 @@
 2. [547. Number of Provinces](https://github.com/akashanup/75DaysChallenge/tree/main/547.NumberOfProvinces)
 3. [684. Redundant Connection](https://github.com/akashanup/75DaysChallenge/tree/main/684.RedundantConnection)
 4. [743. Network Delay Time](https://github.com/akashanup/75DaysChallenge/tree/main/743.NetworkDelayTime)
+
+## Day63
+1. [785. Is Graph Bipartite?](https://github.com/akashanup/programming/tree/main/785.IsGraphBipartite)
+2. [787. Cheapest Flights Within K Stops](https://github.com/akashanup/75DaysChallenge/tree/main/787.CheapestFlightsWithin-K-Stops)
+3. [802. Find Eventual Safe States](https://github.com/akashanup/75DaysChallenge/tree/main/802.FindEventualSafeStates)
+4. [841. Keys and Rooms](https://github.com/akashanup/75DaysChallenge/tree/main/841.KeysAndRooms)
