@@ -295,3 +295,9 @@
 2. [787. Cheapest Flights Within K Stops](https://github.com/akashanup/75DaysChallenge/tree/main/787.CheapestFlightsWithin-K-Stops)
 3. [802. Find Eventual Safe States](https://github.com/akashanup/75DaysChallenge/tree/main/802.FindEventualSafeStates)
 4. [841. Keys and Rooms](https://github.com/akashanup/75DaysChallenge/tree/main/841.KeysAndRooms)
+
+## Day64
+1. [882. Reachable Nodes In Subdivided Graph](https://github.com/akashanup/programming/tree/main/882.ReachableNodesInSubdividedGraph)
+2. [886. Possible Bipartition](https://github.com/akashanup/75DaysChallenge/tree/main/886.PossibleBipartition)
+3. [990. Satisfiability of Equality Equations](https://github.com/akashanup/75DaysChallenge/tree/main/990.SatisfiabilityOfEqualityEquations)
+4. [997. Find the Town Judge](https://github.com/akashanup/75DaysChallenge/tree/main/997.FindTheTownJudge)
