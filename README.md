@@ -301,3 +301,20 @@
 2. [886. Possible Bipartition](https://github.com/akashanup/75DaysChallenge/tree/main/886.PossibleBipartition)
 3. [990. Satisfiability of Equality Equations](https://github.com/akashanup/75DaysChallenge/tree/main/990.SatisfiabilityOfEqualityEquations)
 4. [997. Find the Town Judge](https://github.com/akashanup/75DaysChallenge/tree/main/997.FindTheTownJudge)
+
+## Day65
+1. [1192. Critical Connections In Network](https://github.com/akashanup/programming/tree/main/CriticalConnectionsInNetwork)
+2. [1319. Number of Operations to Make Network Connected](https://github.com/akashanup/75DaysChallenge/tree/main/1319.NumberOfOperationsToMakeNetworkConnected)
+3. [1377. Frog Position After T Seconds](https://github.com/akashanup/75DaysChallenge/tree/main/1377.FrogPositionAfter-T-Seconds)
+4. [1494. Parallel Courses II](https://github.com/akashanup/75DaysChallenge/tree/main/1494.ParallelCoursesII)
+
+## Day66
+1. [127. Word Ladder](https://github.com/akashanup/programming/tree/main/127.WordLadder)
+2. [126. Word Ladder II](https://github.com/akashanup/75DaysChallenge/tree/main/126.WordLadderII)
+3. [882. Reachable Nodes In Subdivided Graph](https://github.com/akashanup/75DaysChallenge/tree/main/882.ReachableNodesInSubdividedGraph)
+4. [959. Regions Cut By Slashes](https://github.com/akashanup/75DaysChallenge/tree/main/959.RegionsCutBySlashes)
+
+## Day68
+1. [14. Longest Common Prefix](https://github.com/akashanup/programming/tree/main/14.LongestCommonPrefix)
+2. [680. Valid Palindrome II](https://github.com/akashanup/75DaysChallenge/tree/main/680.ValidPalindromeII)
+3. [13. Roman to Integer](https://github.com/akashanup/75DaysChallenge/tree/main/13.RomanToInteger)
