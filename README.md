@@ -38,7 +38,7 @@
 
 ## Day7
 1. [39. Combination Sum](https://github.com/akashanup/75DaysChallenge/tree/main/39.CombinationSum)
-2. [45. Jump Game II](https://github.com/akashanup/75DaysChallenge/tree/main/5.JumpGameII)
+2. [45. Jump Game II](https://github.com/akashanup/75DaysChallenge/tree/main/45.JumpGameII)
 3. [1423. Maximum Points You Can Obtain from Cards](https://github.com/akashanup/75DaysChallenge/tree/main/1423.MaximumPointsYouCanObtainFromCards)
 
 ## Day8
@@ -318,3 +318,9 @@
 1. [14. Longest Common Prefix](https://github.com/akashanup/programming/tree/main/14.LongestCommonPrefix)
 2. [680. Valid Palindrome II](https://github.com/akashanup/75DaysChallenge/tree/main/680.ValidPalindromeII)
 3. [13. Roman to Integer](https://github.com/akashanup/75DaysChallenge/tree/main/13.RomanToInteger)
+
+## Day69
+1. [28. Implement strStr()](https://github.com/akashanup/programming/tree/main/28.ImplementStrStr)
+2. [3. Longest Substring Without Repeating Characters](https://github.com/akashanup/75DaysChallenge/tree/main/3.LongestSubstringWithoutRepeatingCharacters)
+3. [1249. Minimum Remove to Make Valid Parentheses](https://github.com/akashanup/75DaysChallenge/tree/main/1249.MinimumRemoveToMakeValidParentheses)
+4. [5. Longest Palindromic Substring](https://github.com/akashanup/75DaysChallenge/tree/main/5.LongestPalindromicSubstring)
