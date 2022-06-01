@@ -2,7 +2,7 @@
 Logic:
     1.Calculate the frequency of each character and store it in a hashmap.
     2. Now think greedy that any character whose frequency is less than k, will never be a part of a valid substring.
-    3. So whenever any such character is encountered(let's say at ith index) while iterating over the s, we could say that a valid substing might be present before (i-1)th index if not empty.
+    3. So whenever any such character is encountered(let's say at ith index) while iterating over the s, we could say that a valid substring might be present before (i)th index if not empty.
     4. We will partition our string on every such character encountered and check for the valid substring in that partition recursively and get the longest substring among all the partitions.
 """
 
