@@ -14,4 +14,3 @@ class Solution:
 
     def validPalindrome(self, s: str) -> bool:
         return self.recur(s, 0, len(s)-1, 0)
-    
