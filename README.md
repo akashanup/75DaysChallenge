@@ -324,3 +324,9 @@
 2. [3. Longest Substring Without Repeating Characters](https://github.com/akashanup/75DaysChallenge/tree/main/3.LongestSubstringWithoutRepeatingCharacters)
 3. [1249. Minimum Remove to Make Valid Parentheses](https://github.com/akashanup/75DaysChallenge/tree/main/1249.MinimumRemoveToMakeValidParentheses)
 4. [5. Longest Palindromic Substring](https://github.com/akashanup/75DaysChallenge/tree/main/5.LongestPalindromicSubstring)
+
+## Day70
+1. [49. Group Anagrams](https://github.com/akashanup/programming/tree/main/49.GroupAnagrams)
+2. [22. Generate Parentheses](https://github.com/akashanup/75DaysChallenge/tree/main/22.GenerateParentheses)
+3. [395. Longest Substring with At Least K Repeating Characters](https://github.com/akashanup/75DaysChallenge/tree/main/395.LongestSubstringWithAtLeast-K-RepeatingCharacters)
+4. [480. Sliding Window Median](https://github.com/akashanup/75DaysChallenge/tree/main/480.SlidingWindowMedian)
