@@ -330,3 +330,6 @@
 2. [22. Generate Parentheses](https://github.com/akashanup/75DaysChallenge/tree/main/22.GenerateParentheses)
 3. [395. Longest Substring with At Least K Repeating Characters](https://github.com/akashanup/75DaysChallenge/tree/main/395.LongestSubstringWithAtLeast-K-RepeatingCharacters)
 4. [480. Sliding Window Median](https://github.com/akashanup/75DaysChallenge/tree/main/480.SlidingWindowMedian)
+
+## Day71
+1. [208. Implement Trie (Prefix Tree)](https://github.com/akashanup/75DaysChallenge/tree/main/208.ImplementTriePrefixTree)
