@@ -333,3 +333,7 @@
 
 ## Day71
 1. [208. Implement Trie (Prefix Tree)](https://github.com/akashanup/75DaysChallenge/tree/main/208.ImplementTriePrefixTree)
+
+## Day73
+1. [1032. Stream of Characters](https://github.com/akashanup/75DaysChallenge/tree/main/1032.StreamOfCharacters)
+2. [1233. Remove Sub-Folders from the Filesystem](https://github.com/akashanup/75DaysChallenge/tree/main/1233.RemoveSub-FoldersFromTheFilesystem)
