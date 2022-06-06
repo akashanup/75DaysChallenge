@@ -337,3 +337,9 @@
 ## Day73
 1. [1032. Stream of Characters](https://github.com/akashanup/75DaysChallenge/tree/main/1032.StreamOfCharacters)
 2. [1233. Remove Sub-Folders from the Filesystem](https://github.com/akashanup/75DaysChallenge/tree/main/1233.RemoveSub-FoldersFromTheFilesystem)
+
+## Day75
+1. [202. Happy Number](https://github.com/akashanup/75DaysChallenge/tree/main/202.HappyNumber)
+2. [43. Multiply Strings](https://github.com/akashanup/75DaysChallenge/tree/main/43.MultiplyStrings)
+3. [1344. Angle Between Hands of a Clock](https://github.com/akashanup/75DaysChallenge/tree/main/1344.AngleBetweenHandsOfClock)
+4. [343. Integer Break](https://github.com/akashanup/75DaysChallenge/tree/main/343.IntegerBreak)
